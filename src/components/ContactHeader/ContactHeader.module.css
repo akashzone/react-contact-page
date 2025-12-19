@@ -1,0 +1,12 @@
+
+
+.contactHeader h1{
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+.contactHeader p{
+    font-size: 1rem;
+    color: #555555;
+    margin-top: 10px;
+}
